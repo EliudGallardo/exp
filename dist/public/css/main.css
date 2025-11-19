@@ -1,0 +1,41 @@
+body{
+    background-image: url('../img/fondo/gokuamigos.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+h1{
+    color: chartreuse;
+}
+
+#username_py1{
+    background-color: rgba(0, 255, 255, 0.466);
+}
+
+#username_py2{
+    background-color: rgba(187, 255, 0, 0.466);
+}
+
+h2{
+    color: aqua;
+}
+p{
+    color: blue;
+}
+#inputRegex {
+  background-color: rgba(20, 20, 20, 0.9);
+  color: #00ffff;
+  border: 2px solid #00ffff;
+  border-radius: 10px;
+  font-size: 18px;
+  text-align: center;
+  box-shadow: 0 0 10px #00ffff;
+}
+
+#inputRegex:focus {
+  outline: none;
+  border-color: #ff00ff;
+  box-shadow: 0 0 20px #ff00ff;
+}
+
